@@ -1,0 +1,3 @@
+# BootDocker
+
+rm -rf <foldername>
